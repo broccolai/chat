@@ -1,0 +1,4 @@
+name: Chat
+version: @version@
+main: brococlai.chat.Chat
+api-version: 1.16
